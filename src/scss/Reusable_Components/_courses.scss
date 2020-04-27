@@ -1,0 +1,31 @@
+.courses_card {
+    height: 250px;
+    margin-bottom: 20px;
+    .card-header-large {
+        padding: 23px 20px;
+    }
+    .card_image {
+        width: 34px;
+    }
+    .card-header__title {
+        text-align: center;
+        background: transparent;
+        text-decoration: none;
+        display: block;
+    }
+    .course__title {
+        color: rgba(255, 255, 255, 0.54);
+        font-size: 14.4px;
+        font-weight: bold;
+        text-decoration: none;
+    }
+    .course__subtitle {
+        color: #ffffff;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .rateIcon {
+        font-size: 13px;
+        color: #f0ca4d;
+    }    
+}
